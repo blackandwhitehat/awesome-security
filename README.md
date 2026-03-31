@@ -39,6 +39,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
     - [Development](#development)
   - [Red Team Infrastructure Deployment](#red-team-infrastructure-deployment)
   - [Exploits & Payloads](#exploits--payloads)
+  - [Hardware / IoT Security](#hardware--iot-security)
   - [Usability](#usability)
   - [Big Data](#big-data)
   - [DevOps](#devops)
@@ -375,6 +376,11 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 ## Blue Team Infrastructure Deployment
 
 - [MutableSecurity](https://github.com/MutableSecurity/mutablesecurity) - CLI program for automating the setup, configuration, and use of cybersecurity solutions.
+
+## Hardware / IoT Security
+
+- [Vessel Hacking Playbook](https://vessel.hackingplaybook.com) - Community-sourced playbook for maritime cybersecurity, by practitioners for practitioners. CC BY-SA 4.0.
+- [IoT Hacking Playbook](https://iot.hackingplaybook.com) - Community-sourced playbook for hardware and IoT hacking, by practitioners for practitioners. CC BY-SA 4.0.
 
 ## Usability
 
